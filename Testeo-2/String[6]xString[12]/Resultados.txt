@@ -1,0 +1,123 @@
+----- Cadenas vacías -----
+Fuerza Bruta: 55
+Tiempo promedio de ejecución (Fuerza Bruta): 22600 ns
+DP: 55
+Tiempo promedio de ejecución (DP): 23800 ns
+Fuerza Bruta: 75
+Tiempo promedio de ejecución (Fuerza Bruta): 18600 ns
+DP: 75
+Tiempo promedio de ejecución (DP): 3600 ns
+Fuerza Bruta: 68
+Tiempo promedio de ejecución (Fuerza Bruta): 1200 ns
+DP: 68
+Tiempo promedio de ejecución (DP): 2100 ns
+Fuerza Bruta: 67
+Tiempo promedio de ejecución (Fuerza Bruta): 43600 ns
+DP: 67
+Tiempo promedio de ejecución (DP): 3400 ns
+Fuerza Bruta: 67
+Tiempo promedio de ejecución (Fuerza Bruta): 19100 ns
+DP: 67
+Tiempo promedio de ejecución (DP): 23200 ns
+Fuerza Bruta: 35
+Tiempo promedio de ejecución (Fuerza Bruta): 17600 ns
+DP: 35
+Tiempo promedio de ejecución (DP): 21200 ns
+Fuerza Bruta: 31
+Tiempo promedio de ejecución (Fuerza Bruta): 3000 ns
+DP: 31
+Tiempo promedio de ejecución (DP): 5200 ns
+Fuerza Bruta: 35
+Tiempo promedio de ejecución (Fuerza Bruta): 15600 ns
+DP: 35
+Tiempo promedio de ejecución (DP): 4700 ns
+Fuerza Bruta: 38
+Tiempo promedio de ejecución (Fuerza Bruta): 17100 ns
+DP: 38
+Tiempo promedio de ejecución (DP): 21500 ns
+Fuerza Bruta: 30
+Tiempo promedio de ejecución (Fuerza Bruta): 17200 ns
+DP: 30
+Tiempo promedio de ejecución (DP): 20100 ns
+----- Cadenas aleatoriamente distintas entre sí -----
+Fuerza Bruta: 51
+Tiempo promedio de ejecución (Fuerza Bruta): 28469000 ns
+DP: 51
+Tiempo promedio de ejecución (DP): 38200 ns
+Fuerza Bruta: 45
+Tiempo promedio de ejecución (Fuerza Bruta): 29982400 ns
+DP: 45
+Tiempo promedio de ejecución (DP): 12300 ns
+Fuerza Bruta: 53
+Tiempo promedio de ejecución (Fuerza Bruta): 31040900 ns
+DP: 53
+Tiempo promedio de ejecución (DP): 85200 ns
+Fuerza Bruta: 40
+Tiempo promedio de ejecución (Fuerza Bruta): 26968000 ns
+DP: 40
+Tiempo promedio de ejecución (DP): 39800 ns
+Fuerza Bruta: 50
+Tiempo promedio de ejecución (Fuerza Bruta): 28133100 ns
+DP: 50
+Tiempo promedio de ejecución (DP): 91200 ns
+Fuerza Bruta: 52
+Tiempo promedio de ejecución (Fuerza Bruta): 25418000 ns
+DP: 52
+Tiempo promedio de ejecución (DP): 17900 ns
+Fuerza Bruta: 50
+Tiempo promedio de ejecución (Fuerza Bruta): 32553600 ns
+DP: 50
+Tiempo promedio de ejecución (DP): 37400 ns
+Fuerza Bruta: 46
+Tiempo promedio de ejecución (Fuerza Bruta): 26731300 ns
+DP: 46
+Tiempo promedio de ejecución (DP): 40100 ns
+Fuerza Bruta: 47
+Tiempo promedio de ejecución (Fuerza Bruta): 33978300 ns
+DP: 47
+Tiempo promedio de ejecución (DP): 42600 ns
+Fuerza Bruta: 50
+Tiempo promedio de ejecución (Fuerza Bruta): 26529700 ns
+DP: 50
+Tiempo promedio de ejecución (DP): 30200 ns
+----- Cadenas similares -----
+Fuerza Bruta: 34
+Tiempo promedio de ejecución (Fuerza Bruta): 30986900 ns
+DP: 34
+Tiempo promedio de ejecución (DP): 38200 ns
+Fuerza Bruta: 42
+Tiempo promedio de ejecución (Fuerza Bruta): 28375300 ns
+DP: 42
+Tiempo promedio de ejecución (DP): 39800 ns
+Fuerza Bruta: 34
+Tiempo promedio de ejecución (Fuerza Bruta): 37026000 ns
+DP: 34
+Tiempo promedio de ejecución (DP): 12600 ns
+Fuerza Bruta: 38
+Tiempo promedio de ejecución (Fuerza Bruta): 30312000 ns
+DP: 38
+Tiempo promedio de ejecución (DP): 31500 ns
+Fuerza Bruta: 51
+Tiempo promedio de ejecución (Fuerza Bruta): 31606400 ns
+DP: 51
+Tiempo promedio de ejecución (DP): 45500 ns
+Fuerza Bruta: 39
+Tiempo promedio de ejecución (Fuerza Bruta): 27552800 ns
+DP: 39
+Tiempo promedio de ejecución (DP): 41100 ns
+Fuerza Bruta: 50
+Tiempo promedio de ejecución (Fuerza Bruta): 29260400 ns
+DP: 50
+Tiempo promedio de ejecución (DP): 49800 ns
+Fuerza Bruta: 36
+Tiempo promedio de ejecución (Fuerza Bruta): 28612300 ns
+DP: 36
+Tiempo promedio de ejecución (DP): 31100 ns
+Fuerza Bruta: 48
+Tiempo promedio de ejecución (Fuerza Bruta): 26118500 ns
+DP: 48
+Tiempo promedio de ejecución (DP): 48300 ns
+Fuerza Bruta: 44
+Tiempo promedio de ejecución (Fuerza Bruta): 32159300 ns
+DP: 44
+Tiempo promedio de ejecución (DP): 31400 ns
