@@ -1,3 +1,4 @@
+----- Cadenas vacías -----
 Fuerza Bruta: 52
 Tiempo promedio de ejecución (Fuerza Bruta): 21200 ns
 DP: 52
